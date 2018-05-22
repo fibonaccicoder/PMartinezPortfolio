@@ -1,0 +1,22 @@
+{
+  "name": "pmartinezportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibonaccicoder/PMartinezPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibonaccicoder/PMartinezPortfolio/issues"
+  },
+  "homepage": "https://github.com/fibonaccicoder/PMartinezPortfolio#readme",
+  "dependencies": {
+    "startbootstrap-resume": "^4.0.0"
+  }
+}
